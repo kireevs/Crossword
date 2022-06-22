@@ -1,0 +1,71 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.let_select {
+    width: 80px;
+    height: 30px;
+    border: 0px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: rgb(247, 150, 71);
+}
+
+.blue {
+    background-color: rgb(74, 172, 197);
+}
+
+.purple {
+    background-color: rgb(178, 162, 199);
+}
+
+.orange_keyword {
+    background-color: rgb(247, 150, 71);
+}
+
+.purple_keyword {
+    background-color: rgb(178, 162, 199);
+}
+
+.blue_keyword {
+    background-color: rgb(74, 172, 197);
+}
+
+table {
+    position: center;
+}
+
+td {
+    width: 80px;
+    height: 30px;
+    border: 3px solid black;
+}
+.keyword {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: auto;
+}
+
+.word_search { 
+    margin: 0 auto;
+    margin-top: 15px; 
+    width:250px;
+}
+
+#desc {
+    margin: 0 auto;
+    margin-top: 50px; 
+}
+
+table {
+    border-collapse: collapse;
+}
